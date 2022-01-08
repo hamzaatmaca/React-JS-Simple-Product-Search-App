@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: rgba(0,0,0,1)!important;
 }
+img, svg {
+  aspect-ratio: 2/2;
+  padding: 20px;
+  background-color: white; }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
